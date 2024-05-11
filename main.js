@@ -1,3 +1,4 @@
+
 import inquirer from "inquirer";
 // first require item store in a variable
 let currentBalance = 25000;
