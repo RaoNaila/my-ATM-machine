@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer"
 
 // first require item store in a variable
